@@ -1,0 +1,15 @@
+[Added Associations]
+application/x-desktop=nvim.desktop;org.kde.kate.desktop;org.kde.kwrite.desktop;libreoffice-writer.desktop;
+inode/directory=org.kde.dolphin.desktop;
+text/plain=nvim.desktop;vim.desktop;org.kde.kate.desktop;org.kde.kwrite.desktop;
+x-scheme-handler/geo=wheelmap-geo-handler.desktop;
+x-scheme-handler/http=firefox.desktop;
+x-scheme-handler/https=firefox.desktop;
+
+[Default Applications]
+application/x-desktop=nvim.desktop;
+inode/directory=org.kde.dolphin.desktop;
+text/plain=nvim.desktop;
+x-scheme-handler/geo=wheelmap-geo-handler.desktop;
+x-scheme-handler/http=firefox.desktop;
+x-scheme-handler/https=firefox.desktop;
